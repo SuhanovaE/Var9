@@ -1,0 +1,2 @@
+select salary from worker
+where lastname = "Озеров";
